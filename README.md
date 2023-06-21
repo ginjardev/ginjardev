@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer and a technical writer with 2+ industry experience. I write Python, Java and JavaScript and I have also used Django and React for building projects. 
+I am a software developer and a technical writer with 3 years industry experience. I write Python, Java and JavaScript and I have also used Django and React for building projects. 
 
 
 ## 🌐 Socials:
